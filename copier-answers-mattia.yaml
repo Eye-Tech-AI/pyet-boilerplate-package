@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+github_user: mattiazanier
+author_first_name: Mattia
+author_last_name: Zanier
+author_orcid: "0000-0000-0000-0000"
+author_email: mattia.zanier@eye-tech-it
+creation_year: "{% now 'utc', '%Y' %}"
